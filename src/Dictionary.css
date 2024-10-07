@@ -1,4 +1,19 @@
 .Dictionary {
 
     background: white;
+    margin-top: 50px;
+
+}
+
+header {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    background-color: #f5f5f5;
+    color: #333;
+}
+.Meaning h3 {
+margin-top: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
